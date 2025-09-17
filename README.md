@@ -2,21 +2,7 @@
   <img src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/main/Man-with-Laptop.png" width="800" height= "400" alt="Man with laptop"/>
 </p>
 
-<!-- Self-Intro Video with Click-to-Play Modal -->
-<p align="center">
-  <a href="#video-popup">
-    <img src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/main/Man-with-Laptop.png" width="800" height="400" alt="Click to play video" />
-  </a>
-</p>
 
-<!-- Hidden video popup section -->
-<a name="video-popup"></a>
-<div align="center">
-  <video width="700" controls autoplay>
-    <source src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/self-intro.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
 
 
 
