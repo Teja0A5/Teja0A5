@@ -87,6 +87,7 @@ To build **impactful software solutions**, contribute to open-source, and contin
 
 ---
 
+
 ## 🏗️ Projects
 
 <table>
@@ -100,7 +101,18 @@ To build **impactful software solutions**, contribute to open-source, and contin
 - 📊 Visualized virus spread with graphs for decision-making  
 - ⚙️ Implemented **data preprocessing, feature engineering, and model evaluation**  
 - 🛠️ **Tech:** Python, Pandas, NumPy, Scikit-learn, Matplotlib  
-[🔗 View Project](https://github.com/Teja0A5/contract-tracing-/tree/main/contract%20tracing%20using%20machine%20learning)
+
+<p align="center">
+  <a href="https://github.com/Teja0A5/contract-tracing-/tree/main/contract%20tracing%20using%20machine%20learning" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Teja0A5/contract-tracing-/raw/main/docs/Contact_Tracing_Documentation.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Document-FF9800?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
 </td>
 
 <td align="center" width="48%">
@@ -112,10 +124,27 @@ To build **impactful software solutions**, contribute to open-source, and contin
 - 📈 Streamlined manual recordkeeping and improved workflow efficiency  
 - ⚙️ Implemented **login authentication, role-based access, and reporting features**  
 - 🛠️ **Tech:** Java Swing, MS Access  
-[🔗 View Project](https://github.com/Teja0A5/Student_Management_System)
+
+<p align="center">
+  <a href="https://github.com/Teja0A5/Student_Management_System" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Teja0A5/Student_Management_System/raw/main/docs/School_Management_Documentation.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Document-FF9800?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
 </td>
 </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/More%20Projects-Coming%20Soon-yellow?style=for-the-badge"/>
+</p>
 
 
 ## 💼 Experience
@@ -143,34 +172,6 @@ To build **impactful software solutions**, contribute to open-source, and contin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Teja0A5&theme=tokyonight" alt="GitHub streak" width="45%"/>
 </p>
 
----
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/charan-teja-2b0538246" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Teja0A5" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:scharanteja@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>  
----
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/charan-teja-2b0538246" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Teja0A5" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:scharanteja@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>  
 ---
 
 ## 🙏 Thank You 🎁
