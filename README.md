@@ -2,6 +2,24 @@
   <img src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/main/Man-with-Laptop.png" width="800" height= "400" alt="Man with laptop"/>
 </p>
 
+<!-- Self-Intro Video with Click-to-Play Modal -->
+<p align="center">
+  <a href="#video-popup">
+    <img src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/main/Man-with-Laptop.png" width="800" height="400" alt="Click to play video" />
+  </a>
+</p>
+
+<!-- Hidden video popup section -->
+<a name="video-popup"></a>
+<div align="center">
+  <video width="700" controls autoplay>
+    <source src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/main/self-intro.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=33EAF7&center=true&vCenter=true&width=400&lines=I'm+Charan+Teja;|Java+Full+Stack+Developer;|Tech+Enthusiast" alt="Typing SVG" />
