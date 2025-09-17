@@ -9,7 +9,20 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/main/assets/solo-leveling-banner.gif" width="700" alt="Anime Banner"/>
 </p>
+---
 
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/charan-teja-2b0538246" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Teja0A5" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:scharanteja@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>  
 ---
 
 ## 🌟 About Me
