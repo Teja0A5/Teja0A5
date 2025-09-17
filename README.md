@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/main/Man-with-Laptop.png" width="400" alt="Man with laptop"/>
+  <img src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/main/Man-with-Laptop.png" width="800" alt="Man with laptop"/>
 </p>
 
 <p align="center">
