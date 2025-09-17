@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/main/Man-with-Laptop.png" width="800" height= "400" alt="Man with laptop"/>
 </p>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=33EAF7&center=true&vCenter=true&width=400&lines=I'm+Charan+Teja;|Java+Full+Stack+Developer;|Tech+Enthusiast" alt="Typing SVG" />
+</p>
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/charan-teja-2b0538246" target="_blank">
@@ -14,10 +18,6 @@
     <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=33EAF7&center=true&vCenter=true&width=400&lines=I'm+Charan+Teja;|Java+Full+Stack+Developer;|Tech+Enthusiast" alt="Typing SVG" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/main/assets/solo-leveling-banner.gif" width="700" alt="Anime Banner"/>
 </p>
