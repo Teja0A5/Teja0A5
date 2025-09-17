@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/main/assets/man-with-laptop.png" width="140" alt="Man with laptop"/>
+  <img src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/main/Man-with-Laptop.png" width="550" alt="Man with laptop"/>
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=33EAF7&center=true&vCenter=true&width=340&lines=Hi+%F0%9F%91%8B%2C+I'm+Charan;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=33EAF7&center=true&vCenter=true&width=340&lines=I'm+Charan+Teja;" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 Java Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
