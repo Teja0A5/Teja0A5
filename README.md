@@ -13,7 +13,7 @@
 <a name="video-popup"></a>
 <div align="center">
   <video width="700" controls autoplay>
-    <source src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/main/self-intro.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/Teja0A5/Teja0A5/self-intro.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
